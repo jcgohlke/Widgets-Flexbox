@@ -21,14 +21,16 @@ white:  #F5FFEB
     display:block;
     clear:both;
 }
-body{
+
+body {
     font-family: Helvetica, Arial, sans-serif;
     background-image: url( "./img/bg.jpg" );
     line-height: 1.6;
     margin: 0;
     padding-top: 20px;
 }
-img{
+
+img {
     max-width: 100%;
     display: block;
     margin: 0;
@@ -36,7 +38,7 @@ img{
 }
 .wrapper{
     background-color: #F5FFEB;
-    
+
     /** TODO 1: Center the site on the screen and style it to match the mockup **/
 }
 
@@ -90,7 +92,7 @@ flex containers to make their children flex items
 #call_to_action h1, #call_to_action p{
     color: white;
 }
-#call_to_action a{   
+#call_to_action a{
     background-color: #E57727;
     display: inline-block;
     padding: 12px 18px;
@@ -100,7 +102,7 @@ flex containers to make their children flex items
 }
 #call_to_action a:hover{
     background-color: #278A96;
-} 
+}
 
 /***************************/
 /**** FEATURED STYLES ******/
